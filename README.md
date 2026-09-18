@@ -1,59 +1,74 @@
-# 👋 Hi, I'm Naufal Ramadhan Wicaksana
+<h1 align="center">Hi there, I'm Naufal Ramadhan Wicaksana 👋</h1>
 
-### 💻 Software Developer | Web & Mobile Developer
+<h3 align="center">💻 Software Developer | Web & Mobile Developer</h3>
 
-I'm a student and developer who enjoys building web and mobile applications.
+<p align="center">
+  <a href="https://github.com/NaufalRamadhan">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Student+at+SMKN+4+Tanjungpinang;Building+Web+%26+Mobile+Apps;Learning+Flutter+%26+Laravel" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Student at SMKN 4 Tanjungpinang
-- 💻 Interested in Web & Mobile Development
-- 🌱 Currently learning Flutter, Laravel & Backend Development
-- 🚀 Building various personal projects
-- 🤖 Interested in AI & automation
+*   🎓 **Student** at SMKN 4 Tanjungpinang
+*   🌱 **Currently learning:** Flutter, Laravel, and Backend Architecture
+*   💡 **Interests:** Web & Mobile Development, AI, and Automation
+*   ⚡ **Fun fact:** I enjoy building things, breaking them, and fixing them again!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<details>
+  <summary><b>👨‍💻 Programming Languages</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</details>
 
-### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<details>
+  <summary><b>🚀 Frameworks & Libraries</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</details>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<details>
+  <summary><b>🗄️ Database & Tools</b></summary>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</details>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📚 TugasKu
-Application for managing assignments and deadlines.
+| Project | Description | Target Platform |
+| :--- | :--- | :--- |
+| **📚 TugasKu** | Application for managing assignments and deadlines. | Mobile (Flutter) |
+| **🚚 JMB Cargo** | Cargo management and shipment tracking system. | Web (Laravel) |
+| **🤖 Nusantara AI** | AI-based application and automation project. | Web / Automation |
 
-### 🚚 JMB Cargo
-Cargo management and shipment tracking system.
-
-### 🤖 Nusantara AI
-AI-based application and automation project.
+*(💡 Tip: Nantinya kamu bisa memblok teks nama project di atas dan memberikan link menuju repository project tersebut)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true" alt="Naufal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true" alt="Naufal's Streak Stats" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -61,13 +76,18 @@ AI-based application and automation project.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/USERNAME_LU">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="mailto:EMAIL_KAMU@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/USERNAME_IG_KAMU">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Building things, learning things, breaking things, and fixing them again.</i>
+  <br>
+  <i>"Building things, learning things, breaking things, and fixing them again."</i>
 </p>
