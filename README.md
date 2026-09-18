@@ -85,10 +85,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fallbuilds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fallbuilds&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+<a href="https://github.com/fallbuilds">
+  <img width="49%" src="https://pejjhh.vercel.app/api?username=fallbuilds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
+</a>
+<a href="https://github.com/fallbuilds">
+  <img width="49%" src="https://streak-stats.demolab.com?user=fallbuilds&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallbuilds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+<a href="https://github.com/fallbuilds">
+  <img width="40%" src="https://pejjhh.vercel.app/api/top-langs/?username=fallbuilds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -99,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fallbuilds&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fallbuilds&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
