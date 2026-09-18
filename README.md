@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;fallbuilds+%E2%80%94+Full-Stack+%26+Mobile+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;Naufal+%E2%80%94+Full-Stack+%26+Mobile+Dev" alt="Typing SVG" />
 
 <!-- TERMINAL-STYLE BANNER -->
 ```
@@ -31,7 +31,7 @@
 ```bash
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│  👤 Nama      : fallbuilds                               │
+│  👤 Nama      : Naufal                                 │
 │  💼 Role      : Full-Stack & Mobile Developer            │
 │  📍 Lokasi    : Indonesia 🇮🇩                             │
 │  🎯 Fokus     : Membangun aplikasi yang berdampak        │
