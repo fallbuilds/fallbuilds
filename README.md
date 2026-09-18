@@ -1,88 +1,133 @@
-<h1 align="center">Hi there, I'm Naufal Ramadhan Wicaksana 👋</h1>
+<!--
+    GitHub Profile README — fallbuilds
+    Theme: Terminal / Hacker Vibe 🖥️
+-->
 
-<p align="center">
-  <a href="https://github.com/fallbuilds">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=15&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Student+at+SMKN+4+Tanjungpinang;Software+%26+Mobile+Developer;Learning+Flutter+%26+Laravel;Building,+Breaking,+Fixing!" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
----
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%24+whoami;fallbuilds+%E2%80%94+Full-Stack+%26+Mobile+Dev" alt="Typing SVG" />
 
-## 🚀 About Me
+<!-- TERMINAL-STYLE BANNER -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗  █████╗ ██╗     ██╗     ██████╗ ██╗   ██╗██╗██╗      ║
+║   ██╔═══╝ ██╔══██╗██║     ██║     ██╔══██╗██║   ██║██║██║      ║
+║   █████╗  ███████║██║     ██║     ██████╔╝██║   ██║██║██║      ║
+║   ██╔══╝  ██╔══██║██║     ██║     ██╔══██╗██║   ██║██║██║      ║
+║   ██║     ██║  ██║███████╗███████╗██████╔╝╚██████╔╝██║███████╗ ║
+║   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚═╝╚══════╝║
+║                                                     BUILDS       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-- 🎓 **Student** at SMKN 4 Tanjungpinang
-- 🌱 **Currently learning:** Flutter, Laravel, and Backend Development
-- 💡 **Interests:** Web & Mobile Development, AI, and Automation
-- ⚡ **Fun fact:** I enjoy building things, breaking them, and fixing them again!
+</div>
 
----
+<!-- TERMINAL INTRO -->
+## `> cat /home/fallbuilds/about.txt`
 
-## 🗣️ Languages I Speak
-
-<p>
-  <img src="https://img.shields.io/badge/Indonesian-Native-E42528?style=for-the-badge" alt="Indonesian" />
-  <img src="https://img.shields.io/badge/English-Intermediate-02569B?style=for-the-badge" alt="English" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-  <summary><b>👨‍💻 Programming Languages</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</details>
-
-<details open>
-  <summary><b>🚀 Frameworks & Libraries</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</details>
-
-<details open>
-  <summary><b>🗄️ Database & Tools</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</details>
+```bash
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  👤 Nama      : fallbuilds                               │
+│  💼 Role      : Full-Stack & Mobile Developer            │
+│  📍 Lokasi    : Indonesia 🇮🇩                             │
+│  🎯 Fokus     : Membangun aplikasi yang berdampak        │
+│  ⚡ Motto     : "Code. Build. Deploy. Repeat."           │
+│                                                          │
+│  🔭 Sedang mengerjakan project open-source               │
+│  🌱 Selalu belajar hal baru setiap hari                  │
+│  💬 Tanya apa aja soal web & mobile development          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📌 Featured Projects
+<!-- TECH STACK -->
+## `> ls ~/tech-stack/`
 
-| Project | Description | Target Platform |
-| :--- | :--- | :--- |
-| **📚 TugasKu** | Application for managing assignments and deadlines. | Mobile (Flutter) |
-| **🚚 JMB Cargo** | Cargo management and shipment tracking system. | Web (Laravel) |
-| **🤖 Nusantara AI** | AI-based application and automation project. | Web / Automation |
+<div align="center">
+
+### 「 Languages 」
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 「 Frameworks & Tools 」
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 「 Database & Services 」
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- GITHUB STATS -->
+## `> neofetch --github-stats`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fallbuilds&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fallbuilds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fallbuilds&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallbuilds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+<!-- CONTRIBUTION GRAPH -->
+## `> git log --graph --oneline`
 
-<p align="center">
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/USERNAME_IG_KAMU">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fallbuilds&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION (optional — perlu setup GitHub Actions) -->
+<!--
+## `> python3 snake.py`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/fallbuilds/fallbuilds/output/github-snake-dark.svg" width="95%"/>
+</div>
+-->
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+```
+fallbuilds@github:~$ uptime
+ ⏱️  Coding since [2024] — still going strong...
+```
+
+<img src="https://komarev.com/ghpvc/?username=fallbuilds&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br>
+
+**`> echo "Terima kasih sudah mampir! 🚀"`**
+
+</div>
