@@ -1,6 +1,6 @@
 <!--
-    GitHub Profile README â€” fallbuilds
-    Theme: Terminal / Hacker Vibe ðŸ–¥ï¸
+    GitHub Profile README — fallbuilds
+    Theme: Terminal / Hacker Vibe 🖥️
 -->
 
 <div align="center">
@@ -10,17 +10,17 @@
 
 <!-- TERMINAL-STYLE BANNER -->
 ```
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘                                                                  â•‘
-â•‘   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—     â–ˆâ–ˆâ•—     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—   â–ˆâ–ˆâ•—â–ˆâ–ˆâ•—â–ˆâ–ˆâ•—      â•‘
-â•‘   â–ˆâ–ˆâ•”â•â•â•â• â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘      â•‘
-â•‘   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘      â•‘
-â•‘   â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘   â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘      â•‘
-â•‘   â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â•šâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â•‘
-â•‘   â•šâ•â•     â•šâ•â•  â•šâ•â•â•šâ•â•â•â•â•â•â•â•šâ•â•â•â•â•â•â•â•šâ•â•â•â•â•â•  â•šâ•â•â•â•â•â• â•šâ•â•â•šâ•â•â•â•â•â•â•â•‘
-â•‘                                                     BUILDS       â•‘
-â•‘                                                                  â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗  █████╗ ██╗     ██╗     ██████╗ ██╗   ██╗██╗██╗      ║
+║   ██╔═══╝ ██╔══██╗██║     ██║     ██╔══██╗██║   ██║██║██║      ║
+║   █████╗  ███████║██║     ██║     ██████╔╝██║   ██║██║██║      ║
+║   ██╔══╝  ██╔══██║██║     ██║     ██╔══██╗██║   ██║██║██║      ║
+║   ██║     ██║  ██║███████╗███████╗██████╔╝╚██████╔╝██║███████╗ ║
+║   ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚═╝╚══════╝║
+║                                                     BUILDS       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -29,19 +29,19 @@
 ## `> cat /home/fallbuilds/about.txt`
 
 ```bash
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚                                                          â”‚
-â”‚  ðŸ‘¤ Nama      : Naufal                                 â”‚
-â”‚  ðŸ’¼ Role      : Full-Stack & Mobile Developer            â”‚
-â”‚  ðŸ“ Lokasi    : Indonesia ðŸ‡®ðŸ‡©                             â”‚
-â”‚  ðŸŽ¯ Fokus     : Membangun aplikasi yang berdampak        â”‚
-â”‚  âš¡ Motto     : "Code. Build. Deploy. Repeat."           â”‚
-â”‚                                                          â”‚
-â”‚  ðŸ”­ Sedang mengerjakan project open-source               â”‚
-â”‚  ðŸŒ± Selalu belajar hal baru setiap hari                  â”‚
-â”‚  ðŸ’¬ Tanya apa aja soal web & mobile development          â”‚
-â”‚                                                          â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  👤 Nama      : Naufal                                 │
+│  💼 Role      : Full-Stack & Mobile Developer            │
+│  📍 Lokasi    : Indonesia 🇮🇩                             │
+│  🎯 Fokus     : Membangun aplikasi yang berdampak        │
+│  ⚡ Motto     : "Code. Build. Deploy. Repeat."           │
+│                                                          │
+│  🔭 Sedang mengerjakan project open-source               │
+│  🌱 Selalu belajar hal baru setiap hari                  │
+│  💬 Tanya apa aja soal web & mobile development          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### ã€Œ Languages ã€
+### 「 Languages 」
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,14 +63,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ã€Œ Frameworks & Tools ã€
+### 「 Frameworks & Tools 」
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### ã€Œ Database & Services ã€
+### 「 Database & Services 」
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -127,13 +127,13 @@
 
 ```
 fallbuilds@github:~$ uptime
- â±ï¸  Coding since [2024] â€” still going strong...
+ ⏱️  Coding since [2024] — still going strong...
 ```
 
 <img src="https://komarev.com/ghpvc/?username=fallbuilds&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br>
 
-**`> echo "Terima kasih sudah mampir! ðŸš€"`**
+**`> echo "Terima kasih sudah mampir! 🚀"`**
 
 </div>
