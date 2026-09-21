@@ -1,7 +1,3 @@
-<!--
-    GitHub Profile README — fallbuilds
-    Theme: Terminal / Hacker Vibe 🖥️
--->
 
 <div align="center">
 
